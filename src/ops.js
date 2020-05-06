@@ -72,7 +72,12 @@ var addnum = function(k) {
         if (!Number.isInteger(num)) {
             return undefined;
         }
-        return (num * 10 + k);
+        if (num >= 0) {
+            return (num * 10 + k);
+        }
+        else {
+            return -((-num) * 10 + k);
+        }
     };
 };
 

@@ -1,3 +1,4 @@
+#!/usr/bin/env node
 var ops = require('./src/ops');
 var argReader = require('./src/argReader');
 var dfs = require('./src/dfs');
