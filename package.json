@@ -1,0 +1,25 @@
+{
+  "name": "ctgplayer",
+  "version": "1.0.0",
+  "description": "To solve puzzles in Calculator: The Game.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GLanguage/ctgplayer.git"
+  },
+  "keywords": [
+    "Calculator: The Game",
+    "node.js",
+    "npm",
+    "package"
+  ],
+  "author": "GLanguage",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/GLanguage/ctgplayer/issues"
+  },
+  "homepage": "https://github.com/GLanguage/ctgplayer#readme"
+}
