@@ -1,4 +1,7 @@
 # ctgplayer
+
+[![npm](https://img.shields.io/npm/v/ctgplayer)](https://www.npmjs.com/package/ctgplayer)
+
 To solve puzzles in Calculator: The Game.
 
 ## Install
